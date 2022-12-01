@@ -1,0 +1,22 @@
+@media screen and ( max-width: 1080px) {
+#aPass{display:none;}
+.parol{
+    background-color: rgba(121, 8, 8, 0.205);
+    border-color: rgb(158 0 0);
+}
+button{
+    background-image: ;
+}
+.floppa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 553px;
+}
+
+body{
+    margin: 0px;
+    background-color: black;
+}
+}
